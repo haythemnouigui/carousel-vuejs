@@ -20,6 +20,6 @@ git commit -m 'new deploy'
 git push -f git@github.com:haythemnouigui/haythemnouigui.github.io.git main
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:haythemnouigui/carousel-vuejs.git master:gh-pages
+git push -f git@github.com:haythemnouigui/carousel-vuejs.git main:gh-pages
 
 cd -
